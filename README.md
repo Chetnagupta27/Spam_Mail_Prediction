@@ -1,1 +1,2 @@
 # Spam_Mail_Prediction
+A spam mail prediction system, also known as a spam email classifier or spam filter, is a type of machine learning system that aims to automatically identify and filter out unwanted or unsolicited emails, commonly referred to as "spam" emails, from a user's email inbox. The goal of a spam mail prediction system is to improve the user's email experience by reducing the clutter and potential risks associated with spam messages.
